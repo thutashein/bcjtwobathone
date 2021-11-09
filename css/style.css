@@ -140,6 +140,11 @@ a{
 
 
 
+/* Start Progress and Task Section  */
+.taskborders{
+    border-left:3px solid tomato ;
+}
+/*End Progress and Task Section  */
 
 
 
