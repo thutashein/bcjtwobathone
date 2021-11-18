@@ -5,13 +5,14 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
 
 
 
+//START FOOTER
 const getyear = document.getElementById("getyear");
 
 const date = new Date();
 
 getyear.innerText = date.getFullYear();
 
-
+//End Footer
 
 
 

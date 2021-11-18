@@ -68,6 +68,18 @@ a{
 }
 
 
+@media(max-width:760px){
+    .sidebars{
+        height: auto;
+        position: static;
+    }
+
+    .topnavbars{
+        position: static;
+    }
+}
+
+
 .searchinputs{
     background: transparent;
     color: #fff;
